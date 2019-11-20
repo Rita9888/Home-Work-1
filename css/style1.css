@@ -1,0 +1,14 @@
+.colortext{
+    color:red;
+}
+
+ ul.simbol li{
+    list-style: none;
+    text-indent: -1em;
+}
+
+.ordinary{
+    font: bold italic 110% serif;
+    color:grey;
+    font-weight: 500;
+}

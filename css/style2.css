@@ -1,0 +1,24 @@
+#P1{
+    font: normal small-caps 18px/20px fantasy;
+    color:rebeccapurple;
+    font-size: 140%;
+}
+
+#P2{
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    color:olive;
+    font-size: 120%;
+}
+
+span{
+    font:italic;
+    font-size: small;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
